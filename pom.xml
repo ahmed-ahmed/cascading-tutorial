@@ -12,6 +12,8 @@
     <modules>
         <module>part01</module>
         <module>part02</module>
+        <module>part03</module>
+        <module>part04</module>
     </modules>
 
 
