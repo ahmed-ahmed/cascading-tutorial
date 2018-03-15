@@ -9,6 +9,7 @@
         <artifactId>examples</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
+    <artifactId>part02</artifactId>
 
-    <artifactId>part01</artifactId>
+
 </project>
